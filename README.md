@@ -1,8 +1,8 @@
 # ファミくろ！
 
-[![Product Name](http://img.youtube.com/vi/60e4YrmYgkE/0.jpg)](https://youtu.be/60e4YrmYgkE)
+[![Product Name](https://user-images.githubusercontent.com/22272875/47612371-9f880b00-dabc-11e8-8273-cf0288e08f02.png)](https://youtu.be/60e4YrmYgkE)
 
-![MainImage](https://user-images.githubusercontent.com/22272875/47612371-9f880b00-dabc-11e8-8273-cf0288e08f02.png)
+↑画像をクリックして動画を再生
 
 ## 製品概要
 ### 家族 × コミュニケーション × Tech
