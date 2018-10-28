@@ -2,7 +2,7 @@
 
 [![Product Name](image.png)](https://youtu.be/60e4YrmYgkE)
 
-[Imgur](https://i.imgur.com/LU59JO0.png)
+<blockquote class="imgur-embed-pub" lang="en" data-id="LU59JO0"><a href="//imgur.com/LU59JO0">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## 製品概要
 ### 家族 × コミュニケーション × Tech
@@ -28,7 +28,7 @@
 そんな2人に、今回のサービス「ファミクロ」を使用してもらいたい。
 
 ### 製品説明（具体的な製品の説明）
-[Imgur](https://i.imgur.com/4ete0GV.png)
+![Imgur](https://i.imgur.com/4ete0GV.png)
 
 ### 特長
 
