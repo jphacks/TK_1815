@@ -2,7 +2,7 @@
 
 [![Product Name](image.png)](https://youtu.be/60e4YrmYgkE)
 
-[Imgur](https://i.imgur.com/LU59JO0.png)
+![MainImage](https://github.com/jphacks/TK_1815/issues/1#issue-374718964)
 
 ## 製品概要
 ### 家族 × コミュニケーション × Tech
@@ -28,7 +28,7 @@
 そんな2人に、今回のサービス「ファミクロ」を使用してもらいたい。
 
 ### 製品説明（具体的な製品の説明）
-[Imgur](https://i.imgur.com/4ete0GV.png)
+![Imgur](https://i.imgur.com/4ete0GV.png)
 
 ### 特長
 
