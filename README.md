@@ -1,8 +1,12 @@
 # ファミくろ！
 
-[![Product Name](image.png)](https://youtu.be/60e4YrmYgkE)
+[![Product Name](https://user-images.githubusercontent.com/22272875/47612371-9f880b00-dabc-11e8-8273-cf0288e08f02.png)](https://youtu.be/CVESVPC5gj4)
 
+<<<<<<< HEAD
 <blockquote class="imgur-embed-pub" lang="en" data-id="LU59JO0"><a href="//imgur.com/LU59JO0">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+=======
+↑クリックして動画を再生
+>>>>>>> 5e1e3be2df2ab55d106e8a405ad05aad44594502
 
 ## 製品概要
 ### 家族 × コミュニケーション × Tech

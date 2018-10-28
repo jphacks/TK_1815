@@ -1,0 +1,73 @@
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+html{
+    font-size: 11px;
+}
+
+table {
+    width: 100%;
+    table-layout:fixed;
+    word-break: break-all;
+}
+
+div{
+    display: inline-block;
+}
+
+.main{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("img/main_bg.png");
+    background-size: 100%;
+}
+
+.header img{
+    width: 100vw;
+    height: 27.24vh;
+}
+
+.chara img{
+    width: 45vw;
+    margin: 10vh 0 0 25vw;
+}
+
+.message{
+    position: absolute;
+    top: 20vh;
+    left: 30vw;
+}
+
+.message img{
+    width: 30vw;
+    height: auto;
+}
+
+
+#profilepicturediv {
+    text-align: center;
+}
+
+#profileimagediv{
+    height: 100px;
+    width: 100px;
+}
+
+#contextinfo {
+    display: none
+}
+
+#profileinfo {
+    display: none
+}
+
+.buttongroup{
+    text-align: center;
+}
+
+button {
+    margin: 4px;
+}
