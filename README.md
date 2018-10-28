@@ -2,7 +2,7 @@
 
 [![Product Name](image.png)](https://youtu.be/60e4YrmYgkE)
 
-![MainImage](https://github.com/jphacks/TK_1815/issues/1#issue-374718964)
+![MainImage](https://user-images.githubusercontent.com/22272875/47612371-9f880b00-dabc-11e8-8273-cf0288e08f02.png)
 
 ## 製品概要
 ### 家族 × コミュニケーション × Tech
