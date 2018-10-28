@@ -1,0 +1,16 @@
+{
+  "name": "famiclo-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bot-express": "^0.5.8",
+    "express": "^4.16.4"
+  }
+}
