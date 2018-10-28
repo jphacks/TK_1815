@@ -1,9 +1,8 @@
 # ファミくろ！
 
-[![Product Name](image.png)](https://www.youtube.com/watch?v=G5rULR53uMk)
+[![Product Name](image.png)](https://youtu.be/60e4YrmYgkE)
 
-![アートボード 1@2x.png](https://imgur.com/a/DzRwkvP)
-
+[Imgur](https://i.imgur.com/LU59JO0.png)
 
 ## 製品概要
 ### 家族 × コミュニケーション × Tech
@@ -29,7 +28,7 @@
 そんな2人に、今回のサービス「ファミクロ」を使用してもらいたい。
 
 ### 製品説明（具体的な製品の説明）
-![about.png](https://imgur.com/a/AAgpXVN)
+[Imgur](https://i.imgur.com/4ete0GV.png)
 
 ### 特長
 
